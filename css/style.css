@@ -185,15 +185,3 @@ footer {
     margin-top: 1rem; }
     .form button:hover {
       background: #ff4d4d; }
-
-@media only screen and (max-width: 992px) {
-  max-width: 960px;
-  padding: 0 20px; }
-
-@media only screen and (max-width: 768px) {
-  max-width: 720px;
-  padding: 0 10px; }
-
-@media only screen and (max-width: 576px) {
-  max-width: 100%;
-  padding: 0 5px; }
